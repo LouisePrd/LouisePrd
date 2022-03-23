@@ -1,4 +1,8 @@
-### Bienvenue :)
+### 
+<p align="center">
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/77757761/159769985-5fb78532-ee85-44a8-8839-cecc68a95bc5.gif"><br>
+  (mes projets par ordre chronologique)
+</p>
 
 <!--
 **LouisePrd/LouisePrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
