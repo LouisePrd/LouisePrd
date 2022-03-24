@@ -1,7 +1,7 @@
 ### 
 <p align="center">
   <img width="150" height="150" src="https://user-images.githubusercontent.com/77757761/159769985-5fb78532-ee85-44a8-8839-cecc68a95bc5.gif"><br>
-  (mes projets par ordre chronologique)<br>
+  (mes ✨projets✨ par ordre chronologique)<br>
 </p>
 
 <!--
