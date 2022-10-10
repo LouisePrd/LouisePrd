@@ -1,7 +1,7 @@
 ### 
 
-<p align="center">Salut !<br>
-Je m'appelle Louise et je suis actuellement en 2e année de DUT informatique à l'IUT Paris Descartes ! <br>Bienvenue sur mon github :)<br><br></p>
+<p align="center">Hello !<br>
+Je m'appelle Louise et je suis actuellement en 3e année du bachelor Developpement Web&Mobile de l'école des Gobelins. <br>Bienvenue sur mon github :)<br><br></p>
 <!--
 <p align="center">
   <img width="120" height="120" src="https://user-images.githubusercontent.com/77757761/159769985-5fb78532-ee85-44a8-8839-cecc68a95bc5.gif"><br>
