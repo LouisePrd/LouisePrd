@@ -1,6 +1,6 @@
 ### 
 
-<p align="center">Hi ! My name is Louise and I'm currently in my 3rd year of bachelor of interactive web development <br>at Gobelins, l'Ecole de l'Image in Paris. <br><br>Welcome to my profile ! ✨<br>
+<p align="center">Hi ! My name is Louise and I'm currently in my 3rd year and studying creative web development <br>at Gobelins, l'Ecole de l'Image in Paris. <br><br>Welcome to my profile ! ✨<br>
 
   <p align="center">
 <img width="200" height="160" src="https://user-images.githubusercontent.com/77757761/212425315-b9ae8e7d-c20a-4b7d-bd12-d83eefbf6fb2.gif"><br>
