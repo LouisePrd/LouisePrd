@@ -1,6 +1,6 @@
 ### 
 
-<p align="center">Hi ! My name is Louise, I'm studying at IMAC - ESIEE in creative engineering <br>and graduated from a bachelor's degree in interactive web development at Gobelins PARIS.
+<p align="center">Hi ! My name is Louise, I'm studying at <b>IMAC - ESIEE in creative engineering</b><br>and graduated from a bachelor's degree in interactive web development at Gobelins PARIS.
  <br><br>Welcome to my profile ! ✨<br>
 
   <p align="center">
