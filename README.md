@@ -1,7 +1,8 @@
-
+[
 
 <br><p align="center">Hi ! My name is Louise, I'm studying at <b>IMAC - ESIEE in creative engineering</b><br>and graduated
-    from a bachelor's degree in interactive web development at Gobelins PARIS.
+    from a bachelor's degree in interactive web development at Gobelins PARIS.<br><br>
+    I'm currently interning at [preWatch](https://www.prewatch.io/), a startup where I'm helping to develop an interactive 3D visualization web service based on Gaussian Splatting data.
     <br><br>Welcome to my profile ! ✨<br>
 </p>
 
@@ -20,3 +21,4 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=LouisePrd&theme=default&hide_border=false"
         alt="GitHub Streak Stats" />
 </p>
+](url)
