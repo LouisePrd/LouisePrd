@@ -19,4 +19,3 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=LouisePrd&theme=default&hide_border=false"
         alt="GitHub Streak Stats" />
 </p>
-](url)
