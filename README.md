@@ -1,5 +1,5 @@
 <br><p align="center">Hi !<br> My name is Louise, I'm studying at <b>[IMAC](https://ingenieur-imac.fr/) - ESIEE in creative engineering</b> and graduated
-    from a bachelor's degree in interactive web development at Gobelins PARIS. I'm currently doing an internship at **[@preWatch](https://www.prewatch.io/)** where I'm working on an **interactive 3D visualization web service** based on Gaussian Splatting data.
+    from a bachelor's degree in interactive web development at Gobelins PARIS. <br>I'm currently doing an internship at **[@preWatch](https://www.prewatch.io/)** where I'm working on an **interactive 3D visualization web service** based on Gaussian Splatting data.
     <br><br>
     Working in my free time on an [interactive hub](https://github.com/LouisePrd/WeShouldDoThis) to learn next js, explore vercel app and get back into back-end.
     <br><br>Welcome to my profile ! ✨<br>
